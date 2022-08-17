@@ -3,6 +3,12 @@ programa
 	
 	funcao inicio()
 	{
+	/*
+	ENUNCIADO DO EXERCÍCIO:
+	Faça um sistema que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa 
+	apenas em dias. 
+	*/
+		
 	inteiro anos,meses,dias,res
 		escreva("Pense quantos anos completos você tem. \nDepois, quantos meses passaram desde seu último aniversário. \nPor fim, quantos dias passaram desde o último mês completo. \nPensou?","\nDigite sua idade em ANOS completos: ")
 		leia(anos)
@@ -19,7 +25,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 560; 
+ * @POSICAO-CURSOR = 184; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
